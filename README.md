@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HesamMarshal
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Web Developing and Machine Learning
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Web Developing and Machine Learning Projects
 * 📫 You can reach me:
   * [Instagram: @HesamMarshal](http://instagram.com/HesamMarshal/)
   * [Telegram:  @HesamMarshal](http:/telegram.me/HesamMarshal) 
